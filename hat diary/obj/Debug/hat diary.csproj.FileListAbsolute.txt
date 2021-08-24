@@ -1,0 +1,34 @@
+C:\Users\Asus\OneDrive\Desktop\csharp\hat diary\hat diary\bin\Debug\hat diary.exe.config
+C:\Users\Asus\OneDrive\Desktop\csharp\hat diary\hat diary\bin\Debug\hat diary.exe
+C:\Users\Asus\OneDrive\Desktop\csharp\hat diary\hat diary\bin\Debug\hat diary.pdb
+C:\Users\Asus\OneDrive\Desktop\csharp\hat diary\hat diary\obj\Debug\hat diary.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\hat diary\hat diary\obj\Debug\hat_diary.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\csharp\hat diary\hat diary\obj\Debug\hat_diary.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\csharp\hat diary\hat diary\obj\Debug\hat diary.csproj.GenerateResource.Cache
+C:\Users\Asus\OneDrive\Desktop\csharp\hat diary\hat diary\obj\Debug\hat diary.exe
+C:\Users\Asus\OneDrive\Desktop\csharp\hat diary\hat diary\obj\Debug\hat diary.pdb
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\bin\Debug\hat diary.exe.config
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat diary.exe
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat diary.pdb
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\bin\Debug\hat diary.exe
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\bin\Debug\hat diary.pdb
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat diary.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat diary.csproj.GenerateResource.Cache
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Admin_dashboard.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Buyer_dashboard.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Add_review.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Cusromer_help_center.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.About_us.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Admin_show_buyee_details.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Stuff_details.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Admin_show_review.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Transection.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Add_slot.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Seller_dashboard.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Buy_slot.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Cart.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Seller_input_animal.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Lock_slot.resources
+C:\Users\Asus\OneDrive\Desktop\kkfkfkfk\hat diary\hat diary\obj\Debug\hat_diary.Admin_show_seller_details.resources

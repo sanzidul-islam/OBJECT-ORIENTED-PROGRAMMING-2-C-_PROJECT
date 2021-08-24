@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF4BE3B9-594A-446D-8B8D-2B9FB4275D4F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hat_diary</RootNamespace>
+    <AssemblyName>hat diary</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About-us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About-us.Designer.cs">
+      <DependentUpon>About-us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add-review.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add-review.Designer.cs">
+      <DependentUpon>Add-review.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add-slot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add-slot.Designer.cs">
+      <DependentUpon>Add-slot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin-dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin-dashboard.Designer.cs">
+      <DependentUpon>Admin-dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin-show-review.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin-show-review.Designer.cs">
+      <DependentUpon>Admin-show-review.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin-show-seller-details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin-show-seller-details.Designer.cs">
+      <DependentUpon>Admin-show-seller-details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_show_buyee_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_show_buyee_details.Designer.cs">
+      <DependentUpon>Admin_show_buyee_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buy-slot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buy-slot.Designer.cs">
+      <DependentUpon>Buy-slot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer-dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer-dashboard.Designer.cs">
+      <DependentUpon>Buyer-dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cart.Designer.cs">
+      <DependentUpon>Cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cusromer-help_center.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cusromer-help_center.Designer.cs">
+      <DependentUpon>Cusromer-help_center.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lock-slot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lock-slot.Designer.cs">
+      <DependentUpon>Lock-slot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seller-dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller-dashboard.Designer.cs">
+      <DependentUpon>Seller-dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller-input-animal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller-input-animal.Designer.cs">
+      <DependentUpon>Seller-input-animal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stuff-details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stuff-details.Designer.cs">
+      <DependentUpon>Stuff-details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transection.Designer.cs">
+      <DependentUpon>Transection.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About-us.resx">
+      <DependentUpon>About-us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add-review.resx">
+      <DependentUpon>Add-review.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add-slot.resx">
+      <DependentUpon>Add-slot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin-dashboard.resx">
+      <DependentUpon>Admin-dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin-show-review.resx">
+      <DependentUpon>Admin-show-review.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin-show-seller-details.resx">
+      <DependentUpon>Admin-show-seller-details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_show_buyee_details.resx">
+      <DependentUpon>Admin_show_buyee_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buy-slot.resx">
+      <DependentUpon>Buy-slot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer-dashboard.resx">
+      <DependentUpon>Buyer-dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cart.resx">
+      <DependentUpon>Cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cusromer-help_center.resx">
+      <DependentUpon>Cusromer-help_center.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lock-slot.resx">
+      <DependentUpon>Lock-slot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Seller-dashboard.resx">
+      <DependentUpon>Seller-dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller-input-animal.resx">
+      <DependentUpon>Seller-input-animal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stuff-details.resx">
+      <DependentUpon>Stuff-details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transection.resx">
+      <DependentUpon>Transection.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Online-Gorur-Hat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
